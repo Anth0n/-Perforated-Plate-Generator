@@ -1,0 +1,5 @@
+{
+  "name": "冲孔板图案生成大师12.14 - Perforated Plate Generator",
+  "description": "A professional tool to generate perforated plate patterns from images. Convert images to circular hole patterns, customize physical dimensions in millimeters, and export CAD-ready SVG files.",
+  "requestFramePermissions": []
+}
